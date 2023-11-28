@@ -1,0 +1,24 @@
+.searchbar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.input{
+    width: 20%;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 9px green;
+    border-style: none;
+}
+
+.input:focus{
+    outline: none;
+}
+
+.btn{
+    margin-right: 10px;
+    background-color: green;
+    border: green;
+}

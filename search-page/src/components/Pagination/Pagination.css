@@ -1,0 +1,28 @@
+.btn-success {
+    background-color: green;
+    color: white;
+    margin-right: 20px; 
+}
+  
+
+.pagination .btn-success.next {
+    margin-left: 10px; 
+}
+  
+
+.pagination .btn-success.prev {
+    margin-right: 10px; 
+}
+  
+.page-item {
+    margin-right: 10px; 
+}
+  
+.page-item.active .page-link {
+    background-color: green;
+    color: white;
+    border: none;
+  }
+
+
+  
